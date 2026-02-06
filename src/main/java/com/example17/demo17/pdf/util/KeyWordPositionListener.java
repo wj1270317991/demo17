@@ -1,11 +1,10 @@
 package com.example17.demo17.pdf.util;
 
 import cn.hutool.core.util.StrUtil;
+import com.itextpdf.awt.geom.Rectangle2D.Float;
 import com.itextpdf.text.pdf.parser.ImageRenderInfo;
 import com.itextpdf.text.pdf.parser.RenderListener;
 import com.itextpdf.text.pdf.parser.TextRenderInfo;
-import com.itextpdf.awt.geom.Rectangle2D.Float;
-import lombok.Data;
 
 import java.util.ArrayList;
 import java.util.List;

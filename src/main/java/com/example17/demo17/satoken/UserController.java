@@ -1,7 +1,6 @@
 package com.example17.demo17.satoken;
 
 import cn.dev33.satoken.session.SaTerminalInfo;
-import cn.dev33.satoken.stp.SaTokenInfo;
 import cn.dev33.satoken.stp.StpUtil;
 import cn.dev33.satoken.stp.parameter.SaLoginParameter;
 import cn.dev33.satoken.stp.parameter.enums.SaLogoutMode;

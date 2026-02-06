@@ -1,10 +1,6 @@
 package com.example17.demo17.web;
 
 import com.alibaba.fastjson2.JSON;
-import com.alibaba.fastjson2.JSONArray;
-import com.alibaba.fastjson2.JSONObject;
-import com.example17.demo17.utils.SftpUtil;
-import com.jcraft.jsch.JSchException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

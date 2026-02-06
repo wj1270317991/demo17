@@ -3,9 +3,7 @@ package com.example17.demo17.pdf.util;
 import com.itextpdf.text.*;
 import com.itextpdf.text.pdf.*;
 import lombok.SneakyThrows;
-import org.apache.pdfbox.pdmodel.PDDocument;
 
-import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.HashMap;
